@@ -1,0 +1,6 @@
+<main>
+    <h1>CatPhotoApp</h1>
+    <h2>Cat Photos</h2>
+    <!-- TODO: Add link to cat photos -->
+    <p>Everyone loves cute cats online!</p>
+</main>// JavaScript source code
